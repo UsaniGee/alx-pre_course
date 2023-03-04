@@ -1,1 +1,1 @@
-My first readme
+Gideon loves coding. Alx is so cool.
